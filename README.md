@@ -1,6 +1,6 @@
 # Recipe Generator
 
-A web application that generates customized recipes based on user-inputted ingredients using the Hugging Face API. Built with JavaScript, React for the frontend, Node.js for the backend, and styled with HTML/CSS.
+A web application that generates customized recipes based on user-inputted ingredients using the Hugging Face API. Built with JavaScript, React for the frontend, Node.js and Express.js for the backend, and styled with HTML/CSS.
 
 ## Table of Contents
 - [Features](#features)
